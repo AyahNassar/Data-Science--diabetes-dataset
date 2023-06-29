@@ -25,9 +25,13 @@ The primary goal of this project is to build a predictive model that can identif
 
 ## Technologies Used
 --> Python
+
 --> pandas - for dataset handling
+
 --> numpy - for numerical computations
+
 --> scikit-learn - for machine learning modelling and processing
+
 --> matplotlib, seaborn - for data visualization
 
 
